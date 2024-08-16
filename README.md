@@ -1,4 +1,3 @@
-# my-summer-in-markdown
 # My Summer Recap
 ## Introduction
 #### Hi, my name is Riley Park and I am a sophomore here at Chatsworth. Some of the things I enjoy doing is baking, playing pickleball with friends, and painting.
